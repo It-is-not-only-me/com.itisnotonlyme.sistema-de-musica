@@ -1,7 +1,9 @@
 {
-    "name": "com.itisnotonlyme.nombre.Editor",
+    "name": "com.itisnotonlyme.sistema-de-musica",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:e5ea190876898304d9ff9da576152f79"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

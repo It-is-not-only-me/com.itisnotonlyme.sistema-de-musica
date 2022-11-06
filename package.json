@@ -1,12 +1,13 @@
 {
-    "name": "com.itisnotonlyme.nombre",
-    "version": "1.0.0",
-    "displayName": "Nombre Lindo",
-    "description": "Descripcion linda",
+    "name": "com.itisnotonlyme.sistema-de-musica",
+    "version": "0.0.1",
+    "displayName": "Sistema de musica",
+    "description": "Un sistema generico para poder tener mandar audios de forma globalizada",
     "unity": "2020.3",
     "keywords": [
-      "Key", 
-      "Words"
+      "Musica", 
+      "Audio",
+      "Sistema"
     ],
     "author": {
       "name": "Juan Ignacio Biancuzzo",
